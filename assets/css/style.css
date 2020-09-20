@@ -1,4 +1,16 @@
+/* Font for body on the index page and background color for all pages*/
+body {
+  background-color: lightgrey;
+  font-family:'Roboto', sans-serif;
+}
 
+/* Font for body on contact page */
+.body-font {
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+ /*Creating a responsive image that will properly react with browser size changes*/
 .responsive {
     max-width: 400px;
     height: auto;
