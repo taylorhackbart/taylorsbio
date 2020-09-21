@@ -20,6 +20,7 @@
   It was unclear to me that I had to link my JavaScript into my html pages, so it took awhile to get my NavBar working in mobile view. Once that was linked, I was able to use my NavBar in every view. 
   On my index, or Home, page, I am unsure if my image is too big but instead of my columns adding up to twelve, they only add up to 10 (3,4,3) otherwise the last column would shift down below my first column. This could probably be fixed if I resized my image, but I like the size of it so we will leave two columns blank.
   Both of my email links do not open a website link into a "New Message", but the emails are referenced there for a simple copy and paste.
+  The "Search" button in my NavBar does not work, neither actually entering any info on the "Contact" page- haven't learned how to do that yet.
   
  ## Credits
   Most of the credit goes to my Professor, Gary and the two TA's Leo and Maria.
