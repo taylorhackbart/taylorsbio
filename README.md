@@ -26,4 +26,4 @@
   I also had some help from my classmates (Jessica, Tessa, Ryan and Andy).
   
 # License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. (It's not but I haven't learned to do this yet!)
