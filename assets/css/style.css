@@ -9,11 +9,24 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
 
-
  /*Creating a responsive image that will properly react with browser size changes*/
 .responsive {
     max-width: 400px;
     height: auto;
 }
 
+/*Creating styles to use for the header boxes*/
+.block {
+  text-align: center;
+  background-color: #fff;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.block-header {
+  /* Typography */
+  color: #4aaaa5;
+  font-weight: bold;
+}
 
