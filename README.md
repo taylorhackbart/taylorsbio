@@ -1,20 +1,20 @@
 # Taylors Bio (homework 2)
 
 ## Description 
- This website includes a section about my background, some fun facts about me, photos of my some important people in my life, and my contact information. On my main page (Home aka index.html) I mostly talked about my time in Mexico because that was a unique few months of my life. I included a few fun facts about me to give you more insight into my life outside of Mexico. 
- On my Portfolio page, I have some photos of my favorite people (and dog). The first photo is of my boyfriend, Jackson, and I, and the second photo was taken in San Diego with Karsen, Madeline and Chongo (the dog). You can then see me diving in a cenote, another photo of Jackson and I when it snowed in September in Denver, CO. Then you'll see two photos of our dog, Osa, and below that is Karsen and I, then Madeline, Luke and I.
- My contact page allows you contact me about any questions you may have. I also have included the links to my social media websites and my email information.
+ This website includes a section about my background, some fun facts about me, projects I have worked on, and my contact information. On my main page (Home aka index.html) I mostly talked about my time in Mexico because that was a unique few months of my life. I included a few fun facts about me to give you more insight into my life outside of Mexico. 
+ On my Portfolio page, I have a few projects that we have worked on in class. I chose our "Let's Hit the Slopes" because it includes different APIs we used. The random password generator was a fun project to work on because it was te beginning of using functions and alerts to generate outcomes. The day planner used primarily javascript to generate the page and used local storage. I included a link to my resume at the bottom, but this will be updated to a tech resume as the course continues.
+ My contact page includes the links to my LinkedIn and GitHub sites, and my email information.
 
 ## Installation
-  Fork all of the files over to your own GitHub to make changes. (still not sure what this portion is)
+  Fork all of the files over to your own GitHub to make changes.
   
 ## Usage
-  Instructions are not needed for this webpage (still not sure what this portion is)
+  Instructions are not needed for this webpage
 
 ## Technologies Used
- To create these pages, I mainly used BootStrap. I did use a small amount of JavaScript for my navagation bars, so the JavaScript links are towards the bottom of each html page. 
- I created many different columns and rows throughout my documents, and these change based on the browser size. If you are viewing on a mobile phone, the navagation bar will be a dropdown menu, but if you are viewing on a tablet or desktop in full screen, the navagation bar will be placed at the top with direct links-no dropdown menu.
- I used GoogleFonts for the fonts on all three pages- the Home and Portfolio pages are styled in "Roboto", while the contact page is styled in "Roboto Mono"
+ To create these pages, I mainly used BootStrap. I did use a small amount of JavaScript for my navigation bars, so the JavaScript links are towards the bottom of each html page. 
+ I created many different columns and rows throughout my documents, and these change based on the browser size. If you are viewing on a mobile phone, the navigation bar will be a dropdown menu, but if you are viewing on a tablet or desktop in full screen, the navigation bar will be placed at the top with direct links-no dropdown menu.
+ I used GoogleFonts for the fonts on all three pages styled in "Roboto".
  
 ## Problems I faced
   It was unclear to me that I had to link my JavaScript into my html pages, so it took awhile to get my NavBar working in mobile view. Once that was linked, I was able to use my NavBar in every view. 
